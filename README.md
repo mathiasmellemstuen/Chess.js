@@ -2,7 +2,7 @@
 A simple Javascript chess library that makes it easy to implement a fully playable chessboard on any html website.
 
 ## Usage
-The code below shows you how you can implement the chessboard. 
+The code below shows you how you can implement a chessboard in HTML. 
 ```html
 <!DOCTYPE html>
 <html>
